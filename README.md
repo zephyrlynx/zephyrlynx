@@ -4,7 +4,7 @@
 - 📫 How to reach me mail me on - "piyush09122001@gmail.com"
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I wanna do too many things together that some time I forgot important ones
-- Technologies I work with - Python, HTML, CSS(Tailwind, Bootstrap), JS, Django, C++
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <!---
 zephyrlynx/zephyrlynx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
