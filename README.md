@@ -6,7 +6,8 @@
 - ⚡ Fun fact: I wanna do too many things together that some time I forgot important ones
 
 - My Current TechStack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,cpp,django,git,github,mysql,py,tailwind)](https://skillicons.dev)
+- 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,cpp,django,git,github,mysql,py,tailwind&perline4)](https://skillicons.dev)
 <!---
 zephyrlynx/zephyrlynx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
