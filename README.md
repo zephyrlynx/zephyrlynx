@@ -31,7 +31,8 @@ I just completed my MCA (2022-2024) from CDAC-Noida with a percentage of **80.9%
   </tr>
   <tr>
     <td align="center">
-      <strong>Backend:</strong><br>
+      <strong>Backend:</strong>
+      <br>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=django" />
       </a>
