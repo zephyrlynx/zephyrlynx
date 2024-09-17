@@ -13,47 +13,59 @@ I just completed my MCA (2022-2024) from CDAC-Noida with a percentage of **80.9%
   Percentage: **84.74%**
 
 ## 💻 Tech Stack
-<div align="center">
-  <div style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap;">
 
-  <div>
-    <strong>Frontend:</strong><br>
-    [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
-  </div>
-
-  <div>
-    <strong>Framework:</strong><br>
-    [![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap)](https://skillicons.dev)
-  </div>
-
-  <div>
-    <strong>Backend:</strong><br>
-    [![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
-  </div>
-
-  <div>
-    <strong>Database:</strong><br>
-    [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-  </div>
-
-  <div>
-    <strong>Scripting/Programming Languages:</strong><br>
-    [![My Skills](https://skillicons.dev/icons?i=python,cpp)](https://skillicons.dev)
-  </div>
-
-  <div>
-    <strong>Package Manager:</strong><br>
-    [![My Skills](https://skillicons.dev/icons?i=nodejs,npm)](https://skillicons.dev)
-  </div>
-
-  <div>
-    <strong>Version Control:</strong><br>
-    [![My Skills](https://skillicons.dev/icons?i=github,git)](https://skillicons.dev)
-  </div>
-
-  </div>
-</div>
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <strong>Frontend:</strong><br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js,html,css" />
+      </a>
+    </td>
+    <td align="center">
+      <strong>Framework:</strong><br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Backend:</strong><br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=django" />
+      </a>
+    </td>
+    <td align="center">
+      <strong>Database:</strong><br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mysql" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Scripting/Programming Languages:</strong><br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,cpp" />
+      </a>
+    </td>
+    <td align="center">
+      <strong>Package Manager:</strong><br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nodejs,npm" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Version Control:</strong><br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=github,git" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ## 🌱 Current Learning
