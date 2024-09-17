@@ -13,13 +13,31 @@ I just completed my MCA (2022-2024) from CDAC-Noida with a percentage of **80.9%
   Percentage: **84.74%**
 
 ## 💻 Tech Stack
-- **Frontend:**    [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
-- **FrameWork:**    [![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap)](https://skillicons.dev)
-- **Backend:** Django    [![My Skills](https://skillicons.dev/icons?i=Django)](https://skillicons.dev) 
-- **Database:** SQL    [![My Skills](https://skillicons.dev/icons?i=SQL)](https://skillicons.dev)
-- **Scripting/Programming Languages:** Python, C++    [![My Skills](https://skillicons.dev/icons?i=python,cpp)](https://skillicons.dev)
-- **Package Manager:**    [![My Skills](https://skillicons.dev/icons?i=nodejs,npm)](https://skillicons.dev)
-- **Version Control:**    [![My Skills](https://skillicons.dev/icons?i=github,git)](https://skillicons.dev)
+<div align="center">
+
+- **Frontend:**  
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+
+- **Framework:**  
+  [![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap)](https://skillicons.dev)
+
+- **Backend:**  
+  [![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
+
+- **Database:**  
+  [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+
+- **Scripting/Programming Languages:**  
+  [![My Skills](https://skillicons.dev/icons?i=python,cpp)](https://skillicons.dev)
+
+- **Package Manager:**  
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,npm)](https://skillicons.dev)
+
+- **Version Control:**  
+  [![My Skills](https://skillicons.dev/icons?i=github,git)](https://skillicons.dev)
+
+</div>
+
 
 ## 🌱 Current Learning
 - **Web Development:** Deepening my skills in front-end and back-end technologies.
