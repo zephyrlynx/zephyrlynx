@@ -14,29 +14,46 @@ I just completed my MCA (2022-2024) from CDAC-Noida with a percentage of **80.9%
 
 ## 💻 Tech Stack
 <div align="center">
+  <div style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap;">
 
-- **Frontend:**  
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+  <div>
+    <strong>Frontend:</strong><br>
+    [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+  </div>
 
-- **Framework:**  
-  [![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap)](https://skillicons.dev)
+  <div>
+    <strong>Framework:</strong><br>
+    [![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap)](https://skillicons.dev)
+  </div>
 
-- **Backend:**  
-  [![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
+  <div>
+    <strong>Backend:</strong><br>
+    [![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
+  </div>
 
-- **Database:**  
-  [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+  <div>
+    <strong>Database:</strong><br>
+    [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+  </div>
 
-- **Scripting/Programming Languages:**  
-  [![My Skills](https://skillicons.dev/icons?i=python,cpp)](https://skillicons.dev)
+  <div>
+    <strong>Scripting/Programming Languages:</strong><br>
+    [![My Skills](https://skillicons.dev/icons?i=python,cpp)](https://skillicons.dev)
+  </div>
 
-- **Package Manager:**  
-  [![My Skills](https://skillicons.dev/icons?i=nodejs,npm)](https://skillicons.dev)
+  <div>
+    <strong>Package Manager:</strong><br>
+    [![My Skills](https://skillicons.dev/icons?i=nodejs,npm)](https://skillicons.dev)
+  </div>
 
-- **Version Control:**  
-  [![My Skills](https://skillicons.dev/icons?i=github,git)](https://skillicons.dev)
+  <div>
+    <strong>Version Control:</strong><br>
+    [![My Skills](https://skillicons.dev/icons?i=github,git)](https://skillicons.dev)
+  </div>
 
+  </div>
 </div>
+
 
 
 ## 🌱 Current Learning
