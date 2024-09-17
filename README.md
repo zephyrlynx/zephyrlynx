@@ -31,8 +31,7 @@ I just completed my MCA (2022-2024) from CDAC-Noida with a percentage of **80.9%
   </tr>
   <tr>
     <td align="center">
-      <strong>Backend:</strong>
-      <br>
+      <strong>Backend:</strong><br>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=django" />
       </a>
@@ -75,7 +74,8 @@ I just completed my MCA (2022-2024) from CDAC-Noida with a percentage of **80.9%
 ## 📧 Contact
 - Email: piyush09122001
 
-**Feel free to connect with me(Linkedin) :** [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)https://www.linkedin.com/in/piyush-singh-kaira-514aa6221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+**Feel free to connect with me(LinkedIn) :** [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/piyush-singh-kaira-514aa6221) [**Piyush Singh Kaira**](https://www.linkedin.com/in/piyush-singh-kaira-514aa6221)
+
 
 
 
