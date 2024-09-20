@@ -72,7 +72,7 @@ I just completed my MCA (2022-2024) from CDAC-Noida with a percentage of **80.9%
 - **Web Development:** Deepening my skills in front-end and back-end technologies.
 
 ## 📧 Contact
-- Email: piyush09122001
+- Email: piyush09122001@gmail.com
 
 **Feel free to connect with me(LinkedIn) :** [**Piyush Singh Kaira**](https://www.linkedin.com/in/piyush-singh-kaira-514aa6221)
 
