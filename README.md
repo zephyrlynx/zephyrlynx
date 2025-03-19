@@ -1,7 +1,7 @@
 # **Piyush Singh Kaira**
 
 ## 👋 About Me
-I just completed my MCA (2022-2024) from CDAC-Noida with a percentage of **80.9%**. I also hold a BCA degree (2019-2022) from BVIMR with a percentage of **84.74%**. I'm passionate about developing amazing websites and am on my journey to becoming a **Full Stack Developer**.
+I just completed my MCA (2022-2024) from CDAC-Noida with a percentage of **80.9%**. I also hold a BCA degree (2019-2022) from BVIMR with a percentage of **84.74%**. I'm passionate about developing amazing websites and am on my journey to becoming a **Data Analyst**.
 
 ## 📚 Education
 - **MCA (2022-2024)**  
@@ -69,7 +69,7 @@ I just completed my MCA (2022-2024) from CDAC-Noida with a percentage of **80.9%
 
 
 ## 🌱 Current Learning
-- **Web Development:** Deepening my skills in front-end and back-end technologies.
+- **Data Analytical:** Deepening my skills in Python, Sql, Excel and learing visualization tools.
 
 ## 📧 Contact
 - Email: piyush09122001@gmail.com
