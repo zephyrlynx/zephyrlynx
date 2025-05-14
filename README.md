@@ -40,7 +40,8 @@ I just completed my MCA (2022-2024) from CDAC-Noida with a percentage of **80.9%
       <strong>Database:</strong><br>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=mysql" />
-      </a>
+      </a><br>
+      <span>🔹 SQL</span>
     </td>
   </tr>
   <tr>
@@ -64,8 +65,17 @@ I just completed my MCA (2022-2024) from CDAC-Noida with a percentage of **80.9%
         <img src="https://skillicons.dev/icons?i=github,git" />
       </a>
     </td>
+    <td align="center">
+      <strong>Data Analytics Tools:</strong><br>
+      <span>📊 Power BI</span><br>
+      <span>📈 Excel</span><br>
+      <span>🐼 Pandas</span><br>
+      <span>🔢 NumPy</span><br>
+      <span>📉 Matplotlib</span>
+    </td>
   </tr>
 </table>
+
 
 
 ## 🌱 Current Learning
