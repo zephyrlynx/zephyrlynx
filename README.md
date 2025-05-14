@@ -14,64 +14,52 @@ I just completed my MCA (2022-2024) from CDAC-Noida with a percentage of **80.9%
 
 ## 💻 Tech Stack
 
+<h2 align="center">🚀 My Tech Stack</h2>
+
 <table align="center">
   <tr>
     <td align="center">
-      <strong>Frontend:</strong><br>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,html,css" />
-      </a>
+      <strong>🌐 Web Development</strong><br>
+      - HTML<br>
+      - CSS<br>
+      - JavaScript<br>
+      - Tailwind CSS<br>
+      - Bootstrap<br>
+      - Django
     </td>
     <td align="center">
-      <strong>Framework:</strong><br>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>Backend:</strong><br>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=django" />
-      </a>
-    </td>
-    <td align="center">
-      <strong>Database:</strong><br>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mysql" />
-      </a><br>
-      <span>🔹 SQL</span>
+      <strong>🗄️ Database</strong><br>
+      - MySQL<br>
+      - SQL
+      - SSMS
+      - PostgreSQL
     </td>
   </tr>
   <tr>
     <td align="center">
-      <strong>Scripting/Programming Languages:</strong><br>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,cpp" />
-      </a>
+      <strong>📊 Data Analytics</strong><br>
+      - Power BI<br>
+      - Excel<br>
+      - Pandas<br>
+      - NumPy<br>
+      - Matplotlib
     </td>
     <td align="center">
-      <strong>Package Manager:</strong><br>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs,npm" />
-      </a>
+      <strong>💻 Programming Languages</strong><br>
+      - Python<br>
+      - C++
     </td>
   </tr>
   <tr>
     <td align="center">
-      <strong>Version Control:</strong><br>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=github,git" />
-      </a>
+      <strong>📦 Package Management</strong><br>
+      - Node.js<br>
+      - npm
     </td>
     <td align="center">
-      <strong>Data Analytics Tools:</strong><br>
-      <span>📊 Power BI</span><br>
-      <span>📈 Excel</span><br>
-      <span>🐼 Pandas</span><br>
-      <span>🔢 NumPy</span><br>
-      <span>📉 Matplotlib</span>
+      <strong>🔧 Version Control</strong><br>
+      - Git<br>
+      - GitHub
     </td>
   </tr>
 </table>
