@@ -30,8 +30,8 @@ I just completed my MCA (2022-2024) from CDAC-Noida with a percentage of **80.9%
     <td align="center">
       <strong>🗄️ Database</strong><br>
       - MySQL<br>
-      - SQL
-      - SSMS
+      - SQL<br>
+      - SSMS<br>
       - PostgreSQL
     </td>
   </tr>
